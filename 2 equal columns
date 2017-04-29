@@ -1,0 +1,16 @@
+BODY {
+ padding:0;
+ margin:0;
+}
+.leftCol {
+ width:47%;
+ padding:20px 2%;
+ margin:20px 1%;
+ float:left;
+}
+.rightCol {
+ width:47%;
+ padding:20px 2%;
+ margin:20px 1%;
+ float:right;
+}
